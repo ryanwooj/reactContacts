@@ -2,7 +2,7 @@
 
 This repo is a first React Project done in
 [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
-
+by Ryan Woo
 
 ## Project Setup
 
